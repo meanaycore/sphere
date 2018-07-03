@@ -1,1 +1,3 @@
-# sphere
+# Sphere
+
+![Sphere](sphere.PNG)
